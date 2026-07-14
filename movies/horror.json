@@ -1,0 +1,12 @@
+[
+  {
+    "title": "The Conjuring",
+    "posterUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster3.jpg",
+    "videoUrl": "https://example.com/conjuring.mp4"
+  },
+  {
+    "title": "It",
+    "posterUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster4.jpg",
+    "videoUrl": "https://example.com/it.mp4"
+  }
+]
