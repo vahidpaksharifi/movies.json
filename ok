@@ -1,0 +1,22 @@
+[
+  {
+    "name": "اکشن",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "id": "action"
+  },
+  {
+    "name": "ترسناک",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "id": "horror"
+  },
+  {
+    "name": "کمدی",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "id": "comedy"
+  },
+  {
+    "name": "درام",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "id": "drama"
+  }
+]
