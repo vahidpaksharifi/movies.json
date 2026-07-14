@@ -1,6 +1,31 @@
-[
-  {
-    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/banners/banner1.jpg",
-    "linkUrl":"https://www.google.com"
-  }
-]
+package com.solotv.vahid;
+
+import java.util.ArrayList;
+
+
+public class BannerData {
+
+
+    public static ArrayList<Banner> getBanners() {
+
+
+        ArrayList<Banner> list = new ArrayList<>();
+
+
+        list.add(new Banner(
+                "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+                "https://www.google.com"
+        ));
+
+
+        list.add(new Banner(
+                "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+                "https://www.youtube.com"
+        ));
+
+
+        return list;
+
+    }
+
+}
