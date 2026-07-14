@@ -1,8 +1,8 @@
 [
   {
     "title": "Avatar",
-    "poster": "images/posters/poster1.jpg",
-    "banner": "images/banners/baner1.jpeg",
+    "poster": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "banner": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/08562452786132007de7206fec5993331137c907/images/banners/baner1.jpg",
     "video": "https://example.com/movie.mp4",
     "genre": "Action"
   }
