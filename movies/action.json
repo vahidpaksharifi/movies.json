@@ -1,0 +1,12 @@
+[
+  {
+    "title": "John Wick",
+    "posterUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl": "https://example.com/johnwick.mp4"
+  },
+  {
+    "title": "Avengers",
+    "posterUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.jpg",
+    "videoUrl": "https://example.com/avengers.mp4"
+  }
+]
