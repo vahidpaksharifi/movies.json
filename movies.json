@@ -1,7 +1,14 @@
 [
- {
-  "title":"Avatar",
-  "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
-  "videoUrl":"https://cdn.truefilesize.com/mp4/sample-5mb.mp4"
- }
+  {
+    "title":"Avatar",
+    "genre":"action",
+    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl":"https://cdn.truefilesize.com/mp4/sample-5mb.mp4"
+  },
+  {
+    "title":"The Conjuring",
+    "genre":"horror",
+    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl":"https://cdn.truefilesize.com/mp4/sample-5mb.mp4"
+  }
 ]
