@@ -18,6 +18,11 @@
     "name": "معمایی",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
     "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
+  },
+  {
+    "name": "معمایی",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
+    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
   }
   
 ]
