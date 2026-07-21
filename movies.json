@@ -1,13 +1,13 @@
 [
   {
     "name": "فیلم اول",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/poster1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "type": "movies",
     "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movie1.json"
   },
   {
     "name": "فیلم دوم",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/poster2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
     "type": "movies",
     "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movie2.json"
   }
