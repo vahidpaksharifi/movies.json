@@ -1,28 +1,13 @@
 [
   {
-    "name": "اکشن",
+    "name": "فیلم ها",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/action.json"
-  },
+  }
   {
-    "name": "ترسناک",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
-  },
-  {
-    "name": "کمدی",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
-  },
-  {
-    "name": "معمایی",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
-  },
-  {
-    "name": "معمایی",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/horror.json"
+    "name": "فیلم ها",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/action.json"
   }
   
 ]
