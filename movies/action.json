@@ -2,11 +2,13 @@
   {
     "title": "John Wick",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "type": "movies"
     "videoUrl": "https://example.com/johnwick.mp4"
   },
   {
     "title": "Avengers",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.jpg",
+    "type": "movies"
     "videoUrl": "https://example.com/avengers.mp4"
   }
 ]
