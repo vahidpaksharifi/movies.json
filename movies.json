@@ -1,6 +1,6 @@
 {
   "name": "پیشنهادی",
-  "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+  "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/images/posters/poster1.jpg",
   "type": "category",
   "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/featured_sub.json"
 }
