@@ -1,11 +1,11 @@
 [
   {
-    "name": "فیلم ها",
+    "name": "ماهواره",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/action.json"
   },
   {
-    "name": "فیلم ها",
+    "name": "استانی",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/action.json"
   }
