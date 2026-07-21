@@ -4,12 +4,5 @@
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "type": "category",
     "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movies/action.json"
-  },
-  {
-    "name": "ماهواره",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
-    "type": "category",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/live/live.json"
   }
-  
 ]
