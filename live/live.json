@@ -3,6 +3,6 @@
     "name": "لایو",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "type": "category",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/live/live.json"
+    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/live/geners.json"
   }
 ]
