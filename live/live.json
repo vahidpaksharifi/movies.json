@@ -1,8 +1,22 @@
 [
   {
-    "name": "لایو",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
-    "type": "category",
-    "moviesUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/live/geners.json"
+    "title":"Avatar",
+    "genre":"action",
+    "type": "movies",
+    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl":"http://drive3.google.dl175m.info:80/new%20film/The.Sheep.Detectives.2026.480p.WEB-DL.PaHe.SoftSub.AvaMovie.mkv"
+  },
+  {
+    "title":"The Conjuring",
+    "genre":"horror",
+    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl":"http://stream11.hubmedia.ir/01/Allegiant.2016.720p.ZarFilm.mkv"
+  },
+  {
+    "title":"رزیدنت اویل",
+    "genre":"horror",
+    "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "videoUrl":"http://cdn10.gooyaserver.com:80/se10/L4yHe3pO/se10/film/Resident.Evil.Death.Island.2023.720p.WEB-DL.x264.SoftSub.AvaMovie.mkv"
   }
+  
 ]
