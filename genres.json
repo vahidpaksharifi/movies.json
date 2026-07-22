@@ -9,6 +9,6 @@
     "name": "تلوزیون زنده",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/tv.jpg",
     "type": "movies",
-    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/refs/heads/main/movie/film.json"
+    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/refs/heads/main/live/tv.json"
   }
 ]
