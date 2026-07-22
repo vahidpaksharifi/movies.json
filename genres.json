@@ -4,5 +4,11 @@
   "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
   "type": "category",
   "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/refs/heads/main/movie/movies.json"
-}
+},
+  {
+    "name": "پخش زنده",
+    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
+    "type": "movies",
+    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/refs/heads/main/movie/film.json"
+  }
 ]
