@@ -7,7 +7,7 @@
     "buttonText": "دریافت آپدیت",
     "linkUrl": "https://example.com/download/solotv-latest.apk",
     "force": true,
-    "minVersion": 2
+    "minVersion": 1
   },
   {
     "id": "1",
