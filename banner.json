@@ -1,14 +1,18 @@
 [
   {
-    "imageUrl": "https://www.technolife.com/wp-content/uploads/2024/01/the-flash-2023.gif",
-    "linkUrl": "https://www.google.com"
+    "imageUrl": "https:\/\/www.technolife.com\/wp-content\/uploads\/2024\/01\/the-flash-2023.gif",
+    "linkUrl": "https:\/\/www.google.com"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/banners/banner1.jpg",
-    "linkUrl": "https://www.youtube.com"
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/banners\/banner1.jpg",
+    "linkUrl": "https:\/\/www.youtube.com"
   },
   {
-    "imageUrl": "https://i0.wp.com/www.heyuguys.com/images/2012/07/Resident-Evil-Retribution-banner.jpg",
-    "linkUrl": "https://www.youtube.com"
+    "imageUrl": "https:\/\/i0.wp.com\/www.heyuguys.com\/images\/2012\/07\/Resident-Evil-Retribution-banner.jpg",
+    "linkUrl": "https:\/\/www.youtube.com"
+  },
+  {
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/banners\/banner_1784835567944.jpg",
+    "linkUrl": "www.google.com"
   }
 ]
