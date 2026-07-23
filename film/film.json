@@ -1,9 +1,7 @@
 [
   {
-    "title":"Avatar",
-    "genre":"action",
+    "title":"شبکه خبر",
     "imageUrl":"https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "videoUrl":"http://drive3.google.dl175m.info:80/new%20film/The.Sheep.Detectives.2026.480p.WEB-DL.PaHe.SoftSub.AvaMovie.mkv"
-    "videoUrl":"https://sproxy.solotv.cl/hls/live/fhd.m3u8"
   }
 ]
