@@ -6,7 +6,7 @@
     "message": "نسخه‌ی تازه‌ی SoloTV با رفع باگ و بهبودهای پخش منتشر شد. برای بهترین تجربه، آپدیت کنید.",
     "buttonText": "دریافت آپدیت",
     "linkUrl": "https://example.com/download/solotv-latest.apk",
-    "force": false
+    "force": true
   },
   {
     "id": "news_2026_07_new_movies",
@@ -15,6 +15,8 @@
     "message": "۲۰ فیلم و سریال تازه به کتابخانه اضافه شد. همین الان نگاهی بندازید!",
     "buttonText": "مشاهده",
     "linkUrl": "https://t.me/solotv_channel",
-    "force": true
+    "force": false
   }
 ]
+t r u e فعال
+f a lse   غیر فعال
