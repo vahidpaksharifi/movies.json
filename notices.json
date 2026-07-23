@@ -6,7 +6,7 @@
     "message": "نسخه‌ی تازه‌ی SoloTV با رفع باگ و بهبودهای پخش منتشر شد. برای بهترین تجربه، آپدیت کنید.",
     "buttonText": "دریافت آپدیت",
     "linkUrl": "https://example.com/download/solotv-latest.apk",
-    "force": 
+    "force": false
   },
   {
     "id": "news_2026_07_new_movies",
