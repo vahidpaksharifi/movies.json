@@ -3,6 +3,6 @@
     "name": "ترسناک",
     "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
     "type": "movies",
-    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/movie/film.json"
+    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/film/film.json"
   }
 ]
