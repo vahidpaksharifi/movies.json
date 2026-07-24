@@ -6,8 +6,8 @@
     "message": "برای ادامه‌ی استفاده از SoloTV باید نسخه‌ی جدید رو نصب کنید.",
     "buttonText": "دریافت آپدیت",
     "linkUrl": "https:\/\/example.com\/download\/solotv-latest.apk",
-    "force": true,
-    "minVersion": 3
+    "force": false,
+    "minVersion": 1
   },
   {
     "id": "1",
