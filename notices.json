@@ -5,8 +5,8 @@
     "title": "به‌روزرسانی جدید",
     "message": "برای ادامه‌ی استفاده از SoloTV باید نسخه‌ی جدید رو نصب کنید.",
     "buttonText": "دریافت آپدیت",
-    "linkUrl": "https://example.com/download/solotv-latest.apk",
-    "force": false,
+    "linkUrl": "https:\/\/example.com\/download\/solotv-latest.apk",
+    "force": true,
     "minVersion": 1
   },
   {
@@ -15,7 +15,8 @@
     "title": "فیلم‌های جدید اضافه شد",
     "message": "۲۰ فیلم و سریال تازه به کتابخانه اضافه شد. همین الان نگاهی بندازید!",
     "buttonText": "مشاهده",
-    "linkUrl": "https://t.me/solotv_channel",
-    "force": false
+    "linkUrl": "https:\/\/t.me\/solotv_channel",
+    "force": false,
+    "minVersion": 0
   }
 ]
