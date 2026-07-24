@@ -1,8 +1,8 @@
 [
   {
     "name": "ترسناک",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster1.jpg",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784874855872.jpg",
     "type": "movies",
-    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/film/film.json"
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/film.json"
   }
 ]
