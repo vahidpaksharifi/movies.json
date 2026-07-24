@@ -1,14 +1,14 @@
 [
-{
-  "name": "فیلم سینمایی",
-  "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/posters/poster2.png",
-  "type": "category",
-  "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/film/movies.json"
-},
+  {
+    "name": "فیلم سینمایی",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784872287771.jpg",
+    "type": "category",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/movies.json"
+  },
   {
     "name": "تلوزیون زنده",
-    "imageUrl": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/images/tv.jpg",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/tv.jpg",
     "type": "movies",
-    "url": "https://raw.githubusercontent.com/vahidpaksharifi/movies.json/main/live/tv.json"
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/live\/tv.json"
   }
 ]
