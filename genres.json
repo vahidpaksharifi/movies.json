@@ -22,5 +22,11 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784873883476.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1784873883476.json"
+  },
+  {
+    "name": "test2",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784873910381.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1784873910381.json"
   }
 ]
