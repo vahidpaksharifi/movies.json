@@ -6,7 +6,7 @@
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/movies.json"
   },
   {
-    "name": "تلوزیون زنده",
+    "name": "تلویزیون زنده",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784933136277.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/live\/tv.json"
