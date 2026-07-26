@@ -1,12 +1,1 @@
-[
-  {
-    "id": "update_1_3_0",
-    "type": "update",
-    "title": "به‌روزرسانی جدید",
-    "message": "برای ادامه‌ی استفاده از SoloTV باید نسخه‌ی جدید رو نصب کنید.",
-    "buttonText": "دریافت آپدیت",
-    "linkUrl": "https:\/\/example.com\/download\/solotv-latest.apk",
-    "force": false,
-    "minVersion": 1
-  }
-]
+[]
