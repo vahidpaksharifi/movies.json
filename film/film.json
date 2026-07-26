@@ -8,5 +8,10 @@
     "title": "Saw X",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/tmdb_951491_1785039965794.jpg",
     "videoUrl": "www.google.com"
+  },
+  {
+    "title": "Resident Evil",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/tmdb_1423191_1785040264376.jpg",
+    "videoUrl": ""
   }
 ]
