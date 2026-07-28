@@ -1,12 +1,1 @@
-[
-  {
-    "id": "notice_1785230292228",
-    "type": "update",
-    "title": "اپدیت جدید",
-    "message": "باید اپدیت کنید",
-    "buttonText": "برای دانلود به ادرس زیر",
-    "linkUrl": "www.",
-    "force": true,
-    "minVersion": 3
-  }
-]
+[]
