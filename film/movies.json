@@ -12,16 +12,16 @@
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785323132587.json"
   },
   {
-    "name": "تخیلی",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785537235092.jpg",
-    "type": "movies",
-    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785328390798.json"
-  },
-  {
     "name": "علمی تخیلی",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785537217866.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785415919318.json"
+  },
+  {
+    "name": "تخیلی",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785537235092.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785328390798.json"
   },
   {
     "name": "انیمیشن",
