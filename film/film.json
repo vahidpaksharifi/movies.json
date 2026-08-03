@@ -1774,5 +1774,641 @@
     "imageUrl": "http:\/\/gitcss.info\/uploads\/cache\/poster_thumb\/uploads\/jpg\/dcf4db3d36ff53384bcfa96c47c8535d.jpg",
     "videoUrl": "http:\/\/peer.tci.cdn.146.dl150m.info\/film\/The.Rule.of.Jenny.Pen.2024.480p.WEB-DL.Farsi.Sub.Film2Media.mkv",
     "description": "قانون جنی پن، فیلمی ترسناک معمایی مهیج به کارگردانی جیمز اشکرافت (James Ashcroft) است. داستان دربارهٔ قاضی بازنشسته‌ای به نام استفان مورتنسن (با بازی جفری راش) است که پس از سکته‌ای شدید، به خانه سالمندانی منتقل میشود. در آنجا، با ساکن مرموزی به نام دیو کریلی (با بازی جان لیثگو) مواجه میشود که با استفاده از یک عروسک دستکشی به نام جنی پن، ساکنان دیگر را مورد آزار قرار میدهد."
+  },
+  {
+    "title": "The Witch Revenge (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/4678878c6585c2d2e3bcca5c7dbbe4c3.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/The.Witch.Revenge.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "جادوگر: انتقام، فیلمی درام فانتزی ترسناک جنگی به کارگردانی آندری کولسنیک (Andriy Kolesnyk) است. پس از تهاجم روسیه به اوکراین در فوریه ۲۰۲۲، جادوگری باستانی از شهر کونوتوپ، که به‌خاطر تولد جادوگران شهرت دارد، پس از قتل نامزدش توسط سربازان روسی، تصمیم به انتقام میگیرد و قدرت‌های خود را بازیابی میکند تا قاتلان را به سزای اعمالشان برساند."
+  },
+  {
+    "title": "Uc Harfliler Nazar (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/58c81c87e758242aa1482b5345f3024d.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/Uc%20Harfliler%20Nazar-HardSub-WebDL-720p-%5BTurk-DL%5D.mkv",
+    "description": "زلیها که آرزوی داشتن نوه دارد، برای این منظور با جن ها معامله می کند. بر اساس توافقی که بین آنها صورت گرفته ، نوه اش نظر در هنگام قاعدگی میمیرد. زمانی که پس از سال‌ها زمان می‌رسد، وقتی پسر و عروسش به توافق عمل نمی‌کنند، در ازای چشم بد قربانی...."
+  },
+  {
+    "title": "Beezel (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/3320e3757298e115a11114085eff666d.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/Beezel.2024.720p.Bluray.x264-YIFY.SoftSub.BMB.F7184111.mkv",
+    "description": "بیش از 60 سال ، سه مهمان یک خانه نفرین شده جادوگر ابدی را کشف می کنند که با عطش سیری ناپذیر برای روحهای زنده در زیر آن زندگی می کند."
+  },
+  {
+    "title": "River of Blood (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/1df587bbb7d9b7f1b98490069a31c0fd.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/River.of.Blood.2024.480p.WEBRip.x264.AAC.ZarFilm.mkv",
+    "description": "چهار کایاک سوار اهل ریسک و تفریح در رودخانه‌ای گم شده و به دل جنگل سرگردان می شوند. این چهار نفر باید جان خود را از دست یک قبیله آدم خوار که قصد کشتن‌شان را دارند نجات دهند."
+  },
+  {
+    "title": "The Little Mermaid (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/7b23edfbf56b3471b9618387244d5320.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/The.Little.Mermaid.2024.720p.SoftSub.MoviePovie.mkv",
+    "description": "دکتر اریک پرینس، یک باستان شناس، در یک جزیره کوچک در دریای کارائیب یک کشف چشمگیر انجام می دهد که نشان از جامعه ای باستانی و پیشرفته ماقبل تاریخ دارد. در حالی که حفاری او در حال انجام است، او با آرورا مرموز و زیبا آشنا می شود و عاشق می شود و ..."
+  },
+  {
+    "title": "Spring Garden (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/c61800509fa13055a92b1196534bbd46.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/Spring.Garden.2024.480p.WEB-DL.x264-BMB.SoftSub.BMB.F9A67BBD.mkv",
+    "description": "داستان در مورد فردی به نام سوهی است که به دلیل مرگ ناگهانی همسرش مجبور می شود خانواده‌ی خودش را ترک کند و به سمت باغ وحشتناکی برود تا..."
+  },
+  {
+    "title": "The Shrouds (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/30d2127885e627cfd5869b4f4bc3f9b8.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/The.Shrouds.2024.480p.WEB-DL.x264-BMB.SoftSub.BMB.5E688706.mkv",
+    "description": "داستان زنی به نام کارش که بیوه است ولی یک تاجر قدرتمند می باشد، او تصمیم می گیرد دستگاهی برای ارتباط با مردگان بسازد تا در کفن بگذارد و..."
+  },
+  {
+    "title": "Grafted (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/55596bae148b57d224362dc3b40eeb4a.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/Grafted.2024.720p.SoftSub.MoviePovie.mkv",
+    "description": "یک دانشجوی چینی بی دست و پا اما باهوش به نام \"وی\" بورسیه تحصیلی در دانشگاه معتبر نیوزلند را دریافت می‌کند. وی فردی خجالتی و درونگرا است که تلاش می‌کند یک خال مادرزادی ژنتیکی را در صورت خود پنهان کند. اکنون وی که مصمم است سرنوشت خود را تغییر دهد، خود را در تحقیقات پدر مرحومش غوطه‌ور کرده و بر روی یک روش انقلابی پیوند پوست کار می‌کند که می‌تواند صورت او را درمان کند. اما ..."
+  },
+  {
+    "title": "Presence (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/9306a443a59804c5d6cc52015862a198.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/Presence.2024.480p.WEB-DL.Farsi.Sub.Film2Media.mkv",
+    "description": "حضور، فیلمی درام ترسناک هیجان انگیز به کارگردانی ‌استیون سودربرگ (Steven Soderbergh) است. در مورد خانواده‌ای است که به خانه‌ای جدید در حومه شهر نقل مکان میکنند، اما به زودی و با وقوع حوادثی ترسناک، متوجه حضور موجودی مرموز شده و متقاعد می‌شوند که در این خانه اسرارآمیز، تنها نیستند و …"
+  },
+  {
+    "title": "The Soul Eater (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/2073bc24680d3b90b511eee8f9b9b3bd.jpg",
+    "videoUrl": "http://peer.tci.cdn.146.dl150m.info/film/The.Soul.Eater.2024.480p.BluRay.Farsi.Sub.Film2Media.mkv",
+    "description": "روح خوار، فیلمی جنایی ترسناک هیجان انگیز معمایی به کارگردانی مشترک الکساندر بوستیلو (Alexandre Bustillo) و ژولین موری (Julien Maury) است. داستان این فیلم در مورد روستایی کوچک در کوهستان است که با وقوع مرگ‌های خشونت‌آمیز و هولناک مواجه میشود. با افزایش این حوادث، افسانه‌ای قدیمی دربارهٔ موجودی شیطانی دوباره در میان مردم زنده میشود."
+  },
+  {
+    "title": "Invasive (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/f5e1bb8559bc098d9af37ea421ebafb2.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Invasive.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "داستان زنی جوان که پنهانی در عمارت یک میلیاردر ساکن می‌شود و با رازهایی روبه‌رو می‌شود که در ادامه او را مجبور می‌کند برای بقای خود بجنگد."
+  },
+  {
+    "title": "You Shall Not Sleep Tonight (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/47480ac57e2774fe3a8205222400ea98.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/You.Shall.Not.Sleep.Tonight.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "امشب نباید بخوابی، فیلمی ترسناک هیجان انگیز به کارگردانی گی‌یرمو کاربونل (Guillermo Carbonell)، بن دکا (Ben Deka) و ژولین دکا (Julien Deka) است. این فیلم داستان پسری را روایت میکند که توسط کابوس‌هایی تسخیر شده است؛ کابوس‌هایی که در آن‌ها هیولایی درون کمد لباسش کمین کرده است. برای تسکین ترس‌هایش، پدرش به او کمک می‌کند تا اینکه …"
+  },
+  {
+    "title": "The Monster Beneath Us (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/815439100f428a307efb86243ca6524b.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/The.Monster.Beneath.Us.2024.480p.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "داستان یک مادر و پسر که به خانه همسر سابق‌اش که به تازگی فوت کرده، نقل مکان می‌کنند و متوجه می‌شوند که در آن خانه تنها نیستند."
+  },
+  {
+    "title": "The Corpse Washer (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/e34cdac256cdce7da7421d8021efae24.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/The.Corpse.Washer.2024.480p.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "داستان زنی به‌نام للا که متصدی کفن و دفن است و سعی دارد به راز مرگ اسرارآمیز مادرش پی ببرد که در این مسیر..."
+  },
+  {
+    "title": "Kalinga (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/a4a71a5589a639bc840c03bd0f89557b.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Kalinga.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "شخصیت اصلی فیلم با وقایع ترسناکی مواجه می‌شود و معمایی شوم را کشف می‌کند."
+  },
+  {
+    "title": "Hide N Seek (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/56c60409ea94188898a2caa4972a5221.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Hide.N.Seek.2024.Telugu.480p.HardSub.Baharatmovie.mkv",
+    "description": "ویشناوی, که یک کارآگاه مصمم است، ارتباط نگران‌کننده‌ای را بین چندین قتل کشف می‌کند. این کشف او را به یک جست‌وجوی خطرناک برای فاش کردن یک توطئه تاریک می‌برد"
+  },
+  {
+    "title": "The Damned (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/12b70b57aee0852f27cffca26b251e9c.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/The.Damned.2024.480p.WEB-DL.Pahe.Farsi.Sub.Film2Media.mkv",
+    "description": "بیوه‌زنی در قرن نوزدهم، در بحبوحهٔ زمستانی بسیار سخت و طاقت‌فرسا، هنگامی که یک کشتی خارجی در سواحل دهکده ماهیگیری ایسلندی‌اش غرق می‌شود، مجبور به انتخابی غیرممکن می‌شود."
+  },
+  {
+    "title": "3 Gece Habis (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/8c9fc28315b302f643ffc3737bc9d255.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/3.%20GECE%20HABIS-HardSub-WebDL-720p-%5BTurk-DL%5D.mkv",
+    "description": "پس از زلزله، دفنه و خانواده اش در استانبول ساکن می شوند. اما به زودی زندگی دفنه به یک کابوس تبدیل می شود. اگرچه او مشکوک است که خانواده اش پشت این وضعیت هستند، اما هیچ مدرکی ندارد. بعد از اینکه شب اول و دومش پر از ترس می شود، صبح شب سوم از جنجال باخبر می شود. نه تنها او تسخیر خواهد شد، بلکه شیاطین شیطانی او نیز به دیدار او خواهند رفت."
+  },
+  {
+    "title": "Nosferatu (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/d986c176a7c1bdc848f7ba1c0f1b8bec.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Nosferatu.2024.480p.WEB-DL.Film2Media.Farsi.Sub.mkv",
+    "description": "نوسفراتو، فیلمی ترسناک معمایی درام، تاریخی و هیجان‌انگیز به کارگردانی رابرت اگرز (Robert Eggers) است. در مورد یک خون‌آشام باستانی ترانسیلوانیا است که در قرن نوزدهم میلادی در آلمان شیفته یک زن جوان تسخیر شده میشود. حال این اتفاق مجموعه‌ای از حوادث وحشتناک را در پی دارد و …"
+  },
+  {
+    "title": "Devils Stay (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/4a39e61d625286931da251d1d3da3ca7.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Devils.Stay.2024.720p.WEB-DL.H.264.SoftSub.mkv",
+    "description": "\"چا سونگدو\" دخترش را به طور ناگهانی از دست می‌دهد. مراسم خاکسپاری او قرار است در سه روز برگزار شود. در طول مراسم، شیطان از قلب بدن بی‌جان او بیدار می‌شود. کشیش کاتولیک ون یک مراسم جن‌گیری انجام می‌دهد، اما ..."
+  },
+  {
+    "title": "Moei The Promised (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/f58a8e1bd525e08f877a1493618f98a9.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Moei.The.Promised.2024.480p.NF.WEB-DL.SS.mkv",
+    "description": "مادری اشک می‌ریزه یا پسرش رو از نفرینی مرموز نجات بده موئی عهد و پیمانی قدیمیه که با چیزی مرموز بسته شده تا در مسیر موفقیت از پیمان کننده محافظت کنه بااین حال این پیمان خودش نیازمند گرو گذاشتن چیزیه."
+  },
+  {
+    "title": "Cadi (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/54f9922b211c04dbd5b4138f3a219d6c.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Cadi-HardSub-WebDL-480p-[Turk-DL].mkv",
+    "description": "این بر اساس شایعه \"خانه نفرین شده\" در زمان فروپاشی امپراتوری عثمانی است. فیکریه که با اکراه به عنوان عروس به عمارت غم انگیز استانبول می رود و ناشیت نفی ، ارباب مرموز عمارت، سفری را به سوی رازهای تاریک گذشته آغاز می کنند."
+  },
+  {
+    "title": "Daddys Head (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/eafdcbc2ab936fb1f9abab46d61ca5fb.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Daddys.Head.2024.720p.AMZN.WEB-DL.H.264.mkv",
+    "description": "یک پسربچه و مادر ناتنی اش از موجود ترسناکی به وحشت افتاده اند که با ظاهر پدر تازه از دنیا رفته خانواده به دیدن آن ها می آید."
+  },
+  {
+    "title": "Operation Blood Hunt (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/17c553c44193a82943d282cf0f8c8064.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Operation.Blood.Hunt.2024.720p.WEBRip.x264.COLLECTiVE.SoftSub.mkv",
+    "description": "کشیشی به همراه گروهی از نظامیان، به یک جزیره دورافتاده در اقیانوس آرام جنوبی می‌رود تا ناپدید شدن واحدهای دریایی را بررسی کند که گفته می‌شود به دست ارتش امپراتوری ژاپن افتاده‌اند. اما ..."
+  },
+  {
+    "title": "Krazy House (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/22d42d868989b7557fdaace757a751e1.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Krazy.House.2024.480p.WEB-DL.x264.SoftSub.AvaMovie.mkv",
+    "description": "دیوانه خانه، فیلمی ترسناک کمدی به کارگردانی مشترک Steffen Haars و Flip Van der Kuil است. داستان فیلم حول محور برنی، یک سرپرست خانواده مذهبی میچرخد. وقتی معلوم میشود کارگران روسی در خانه برنی مجرمان تحت تعقیب هستند، برنی مجبور میشود از قدرت خود استفاده کند و خانواده‌اش را که زندانی شده‌اند، نجات دهد تا اینکه …"
+  },
+  {
+    "title": "Get Away (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/26e8ecd247b8ffdbe82ada1bc0370997.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Get.Away.2024.480p.WEB-DL.RMTeam.FilmKio.mkv",
+    "description": "تعطیلات یک خانواده به یک مکان دورافتاده زمانی که متوجه می‌شوند جزیره‌ای که در آن زندگی می‌کنند توسط یک قاتل اشغال شده است، به طور کلی تغییر می کند و ..."
+  },
+  {
+    "title": "Welcome Week A College Horror Anthology (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/e1376d13200fcfea7ac20d8ad47588b8.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Welcome.Week.A.College.Horror.Anthology.2024.480p.WEB-DL.ZarFilm.mkv",
+    "description": "وحشت در هفته اول دانشگاه، فیلمی ترسناک به کارگردانی مشترک Blake Douglas و Ethan Gomez Zahnley و Lenny Ibarra است. این فیلم داستان دانشجویی به نام اندرو را روایت میکند که پس از مرگ مرموز چهار خواهر و برادرش در هفته‌های اول دانشگاه، با ترس‌های خود مواجه می‌شود؛ به‌ویژه زمانی که یک قاتل نقاب‌دار او را به‌عنوان قربانی بعدی خود انتخاب میکند."
+  },
+  {
+    "title": "Bramayugam (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/8fdca212dc854f58f3772a8f57dc8d3d.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Bramayugam%202024.480p%20WEB-DL.FarsiSub.Bollywood1.mkv",
+    "description": "عصر جنون، فیلم ترسناک هیجان‌انگیز و درام به کارگردانی راهول ساداسیوان (Rahul Sadasivan) است. داستان حول محور یک خواننده از قبیله پنان میچرخد که از بردگی فرار کرده و به خانه‌ای با اربابی مرموز پناه می‌برد. با ورود به این خانه، او متوجه حضور یک نیروی شیطانی میشود که ساکن این عمارت قدیمی است. این نیروی شرور به تدریج بر زندگی او سایه می‌اندازد و او را درگیر ماجراهایی هولناک میکند که …"
+  },
+  {
+    "title": "Bhool Bhulaiyaa 3 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/0c849d948c0e493d9ea37f8a230b6dc9.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Bhool%20Bhulaiyaa%203%202024.480p%20WEB-DL.FarsiSub.Bollywood1.mkv",
+    "description": "روح بابا از کارهای کوچک با درآمد پایین خسته می‌شود و تصمیم میگیرد در ازای پول زیادی یک روح سرگردان را از یک عمارت در بنگال فراری دهد..."
+  },
+  {
+    "title": "Nightbitch (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/c8a44f3e4a82e5d24c7a9a6ca782ae36.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Nightbitch.2024.480p.WEB-DL.Film2Media.Farsi.Sub.mkv",
+    "description": "مادر وحشی، فیلم ترسناک، کمدی، فانتزی، معمایی، هیجان‌انگیز و درام به کارگردانی ماریل هلر (Marielle Heller) است. زنی که به دلیل مراقبت از کودک نوپایش در حومه شهر، مجبور به خانه‌نشینی شده است، به زودی در زندگی روزمره‌ خود به سمت اتفاقاتی عجیب و غریب و غیرمنتظره کشیده میشود و …"
+  },
+  {
+    "title": "Y2K (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/ce2f74d69c765833695b08a9be9d8c52.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Y2K.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "سال ۲۰۰۰، فیلمی کمدی ترسناک علمی تخیلی به کارگردانی کایل مونی (Kyle Mooney) است. داستان دو دانش‌آموز دبیرستانی را روایت میکند که تصمیم میگیرند در آخرین جشن بزرگ قبل از هزاره جدید، در شب سال نوی ۱۹۹۹، شرکت کنند. با فرارسیدن نیمه‌شب، اوضاع به طرز غیرمنتظره‌ای پیچیده و دیوانه‌وار میشود."
+  },
+  {
+    "title": "Werewolves (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/65a5b0f5ba1b611154748d2372413c1a.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Werewolves.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "گرگینه‌ها، فیلمی اکشن ترسناک هیجان انگیز به کارگردانی استیون سی. میلر (Steven C. Miller) است. داستان دو دانشمند را روایت میکند که تلاش میکنند جهشی را متوقف کنند که باعث میشود افرادی که سال قبل در معرض نور ابرماه قرار گرفته‌اند، به گرگینه تبدیل شوند."
+  },
+  {
+    "title": "Pedro Paramo (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/5ff80c530eb7c2225383e3aad27f0d74.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Pedro.Paramo.2024.480p.WEB-DL.x264.6CH.ZarFilm.mkv",
+    "description": "پدرو پارامو؛ فیلمی در سبک واقع‌گرایی جادویی درام به کارگردانی رودریگو پریتو است. داستان در جاده‌ای خاک‌آلود آغاز می‌شود که به شهری پر از مرگ می‌رسد. روایت در میان ذهنیت‌های مختلف به شکلی هیپنوتیزم‌کننده جریان دارد، با ترکیبی از رویاها، آرزوها و خاطرات. جهانی پر از ارواح که در آن سایه سنگین پدرو پارامو حکم‌فرماست: عاشق، ارباب و قاتل…"
+  },
+  {
+    "title": "The Curse of the Necklace (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/6f458e1d009f0de6bb48edf7b705cbda.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/The.Curse.of.the.Necklace.2024.480p.WEB-DL.x264.Pahe.SoftSub.AvaMovie.mkv",
+    "description": "نفرین گردنبند، فیلمی ترسناک به کارگردانی خوان پابلو آریاس مونوز (Juan Pablo Arias Munoz) است. یک خانواده در دهه پرتلاطم ۱۹۶۰ با چالش‌های زندگی دست‌وپنجه نرم می‌کند. مادر از همسر الکلی خود جدا میشود. دختران با تغییرات زندگی روبه‌رو هستند. اما هدیه‌ای عتیقه از پدر، نیرویی تاریک را به همراه دارد که همه را در خطر قرار میدهد."
+  },
+  {
+    "title": "Cloud (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/46d68c24160640285537dbb927ccc226.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Cloud.2024.WEB-DL.720p.PSAMA.Farsi.Sub.Film2Media.mkv",
+    "description": "ابر، فیلمی اکشن هیجان انگیز ترسناک به کارگردانی کیوشی کوروساوا (Kiyoshi Kurosawa) است. داستان در مورد مردی‌ست که با فروش محصول در اینترنت گذران زندگی میکند. در واقع او محصولات را دوباره با ارزش افزوده و قیمت بالاتر می‌فروشد و دلالی میکند."
+  },
+  {
+    "title": "Heretic (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/066aa69957459862ca544c458f8b90fa.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Heretic.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "داستان دو زن مذهبی که در خانه یک مرد غریبه، به یک بازی موش و گربه‌ای مرگبار گرفتار می‌شوند."
+  },
+  {
+    "title": "Do Not Enter (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/b5437a932793bebf4b23362387326f7c.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Do.Not.Enter.2024.480p.BrRip.AAC.ZarFilm.mkv",
+    "description": "دو دوست که آرزوی یوتیوبر شدن را دارند، وارد جایی می‌شوند که نباید. ماجراجویی آن‌ها به یک کابوس هولناک تبدیل می‌شود وقتی با وحشتی غیرقابل تصور روبرو می‌شوند."
+  },
+  {
+    "title": "Siccin 7 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/ce30e7dc8e5f6d09e8d0672eea88e663.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Siccin.7.2024.720p.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "داستان مردی به‌نام کمال و خانواده‌اش که پس از معامله با مافیای فروش کودکان یتیم، به عمارت عمویش نقل مکان می‌کنند. عمارتی که اتفاقات ماورایی و ترسناک برای تک تک افراد خانواده رخ می‌دهد."
+  },
+  {
+    "title": "Mononoke the Movie Phantom in the Rain (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/8cc32d063b6cc2b5d007855f1a568138.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Mononoke%20The%20Movie%20The%20Phantom%20in%20the%20Rain.%5BSS%5D%5B480%5D%5BAioFilm.com%5D.mkv",
+    "description": "آسا و کامه، دو زن جوان، در اولین روز خدمت خود در «Ōoku» (حرم‌سرای باشکوه لرد تنشی) با یکدیگر آشنا شده و بلافاصله رابطه‌ای دوستانه شکل می‌دهند. این حرم‌سرا، که به‌عنوان مکانی پر زرق و برق و مملو از زنان خدمه شناخته می‌شود، هیچ مردی را به درون خود راه نمی‌دهد؛ چرا که ورود مردان تنها به قیمت جانشان تمام می‌شود.اما به زودی مشخص می‌شود که پشت این ظاهر مجلل و آیین‌های دقیق، توطئه‌های شوم و رقابت‌های تلخ نهفته است."
+  },
+  {
+    "title": "Dear Santa (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/7802bcad0ac817a4aa98755a4ac6d384.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Dear.Santa.2024.480p.WEB-DL.RMTeam.FilmKio.mkv",
+    "description": "لیام، دانش آموز کلاس ششم دوست داشتنی، به بابانوئل نامه می نویسد و از او می خواهد ثابت کند که واقعی است. لیام با یک اشتباه املایی و به‌طور تصادفی نامه‌اش را برای شیطان می‌فرستد، او در خانه لیام ظاهر می‌شود و ..."
+  },
+  {
+    "title": "Time Cut (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/d20fb7bb8868f68db4db4d4dfa823c7e.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/new%20film/Time.Cut.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "یک دانش‌آموز دبیرستانی به طور تصادفی به سال ۲۰۰۳ سفر می‌کند و تصمیم می‌گیرد جلوی قاتل زنجیره‌ای که خواهرش را به قتل رسانده بایستد."
+  },
+  {
+    "title": "Smile 2 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/cae8251d646d8e69663cfe271d639808.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Smile.2.2024.480p.WEB-DL.x264.Pahe.ZarFilm.mkv",
+    "description": "داستان ستاره پاپ جهانی، اسکای رایلی که در آستانه شروع تور دور دنیا، دچار اتفاقاتی وحشتناک و عجیب می‌شود. رفته رفته این اوضاع بدتر می‌شود و فشار شهرت نیز کمکی به او نمی‌کند و مجبور می‌شود با گذشته خود روبه‌رو شود تا..."
+  },
+  {
+    "title": "Rumours (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/4c6b8246102796ec0599e05579e0712d.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Rumours.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "شایعات، فیلمی ترسناک درام کمدی به کارگردانی مشترک Evan Johnson و Galen Johnson و Guy Maddin است. داستان فیلم در مورد رهبران هفت کشور ثروتمند است که به منظور تهیه یک بیانیه، بر اثر اتفاقاتی، در یک جنگل وسیع گم میشوند و برای مدت زمان زیادی در آن هستند، پول و قدرت آنان هیچ کارایی برای آنان ندارد. آنان بایستی خود تلاش کنند و از آن منطقه خارج شوند …"
+  },
+  {
+    "title": "Your Monster (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/c468f5cab205a7e392dfb03033c318db.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Your.Monster.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان بازیگری به‌نام لارا فرانکو که زندگی‌اش از هم می‌پاشد اما پس از آنکه هیولایی ترسناک اما در عین حال جذاب را در کمد خود پیدا می‌کند، زندگی‌اش زیر و رو می‌شود و دوباره بخت با او یار می‌شود."
+  },
+  {
+    "title": "Monster Summer (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/39d869722000a1196eca389267295a69.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Monster.Summer.2024.480p.WEB-DL.Film2Media.Farsi.Sub.mkv",
+    "description": "داستان پسری به‌نام نوآ و دوستان‌اش که متوجه می‌شوند موجودی خبیث در جزیره‌شان وجود دارد، برای همین با یک پلیس بازنشسته همکاری می‌کنند تا شهرشان را نجات دهند."
+  },
+  {
+    "title": "Stream (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/3b8dbe86513adacb9ee6864c5e84553d.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Stream.2024.480p.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "استریم، فیلمی ترسناک به کارگردانی Michael Leavy است. وقتی چهار قاتل دیوانه که در حال بازی کردن یک بازی سادیستی هستند کنترل یک هتل را در دست میگیرند و آخر هفته خانواده کینان را به یک تعطیلات مرگبار تبدیل میکنند …"
+  },
+  {
+    "title": "Cellar Door (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/364feb487c14f2fba9b191a95b215bc3.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Cellar.Door.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "داستان زوجی که بعد از سقط شدن نوزادشان، خانه رویایی‌شان را به دست می‌آورند اما به یک شرط، آن‌ها هرگز نمی‌توانند درب انبار را باز کنند چون..."
+  },
+  {
+    "title": "MadS (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/34ae80bab3740bf66bd9d05223ab65b3.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/MadS.2024.480p.WEB-DL.x264.SoftSub.AvaMovie.mkv",
+    "description": "دیوانه‌ها، فیلمی ترسناک به کارگردانی دیوید مورو (David Moreau) است. داستان درباره دختری 18 ساله به نام رومین است که پس از فارغ‌التحصیلی از دبیرستان برای تجربه‌ی نوع جدیدی از قرص به منزل یک فروشنده میرود و قصد دارد به مهمانی برود. در مسیر، او با زنی مجروح در کنار جاده روبرو میشود و تصمیم میگیرد به او کمک کند. تا اینکه …"
+  },
+  {
+    "title": "Dont Move (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/fe8236ad67b3728238fc735e9c1116fd.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Dont.Move.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "زنی غمگین که امیدوار است در اعماق جنگلی منزوی آرامش پیدا کند با غریبه ای مواجه می شود که به او یک عامل فلج کننده تزریق می کند. همانطور که این ماده به تدریج بدن او را در اختیار می گیرد، او باید فرار کند، مخفی شود و قبل از اینکه کل سیستم عصبی او از کار بیفتد، برای زندگی خود بجنگد."
+  },
+  {
+    "title": "Terrifier 3 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/28edad99a08391e4dc85cf786a32ffd5.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Terriffier.3.2024.480p.Theater.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "در این قسمت آرتِ دلقک قصد دارد تا شهر مایلز کانتی را که در شب کریسمس در آرامش به سر می‌برد، به هرج‌ومرج بکشد و تمام ساکنین را به وحشت بیاندازد."
+  },
+  {
+    "title": "Die Alone (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/35c43a87beedbb8441929619f700bd2e.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Die.Alone.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "داستان مرد جوانی که فراموشی دارد و در دنیایی پسا آخرالزمانی به همراه یک بازمانده، سعی دارد دوست دختر خود را پیدا کند."
+  },
+  {
+    "title": "Bagman (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/7612145e24ee034ac7056dd4d1792fef.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Bagman.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان مردی که سعی در مبارزه با ترس درونی خود دارد که از کودکی در او نهادینه شده. ترسی که منشأ آن موجودی خبیث است، اما این دفعه تنها نیست و باید برای نجات خانواده‌اش مبارزه کند."
+  },
+  {
+    "title": "Alien Romulus (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/5e6811ff9186e00f27b7caaf51c8ddf5.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Alien.Romulus.2024.480p.WEB-DL.x264-Pahe.SoftSub.BMB.196E4537.mkv",
+    "description": "گروهی از مهاجران فضایی جوان وقتی به یک ایستگاه فضایی متروکه قدم می‌گذارند، با مخوف‌ترین و وحشتناک‌ترین شکل حیات در سراسر جهان روبرو می‌شوند."
+  },
+  {
+    "title": "House of Spoils (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/4da0961c499636e17f1d8b0c59ba25c9.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/House.of.Spoils.2024.480p.WEB-DL.x264.SoftSub.AvaMovie.mkv",
+    "description": "داستان سرآشپزی که اولین رستوران خود را باز می‌کند و باید با هرج‌ومرج درون آشپزخانه، سرمایه‌گذار شکاک و خود کم بینی دست و پنجه نرم کند اما در این بین..."
+  },
+  {
+    "title": "The Substance (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/fe83ae1f72f8f77f900e4ce0a64d6498.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/The.Substance.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "ماده، فیلمی ترسناک درام به کارگردانی است. یک سلبریتی رو به افول که برای بازگشت به اوج شهرتش، ماده‌ای غیرقانونی را مصرف میکند؛ ماده‌ای که با تکثیر سلولی، نسخه‌ای جوان‌تر و کامل‌تر از خودش را به‌طور موقت خلق میکند. اما هرچه بیشتر به این نسخه جدید وابسته میشود، باید با پیامدهای ناگفته و خطرناک این انتخاب روبه‌رو شود …"
+  },
+  {
+    "title": "Never Let Go (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/a9f820a7f7174915435b6352ab17fbe8.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Never.Let.Go.2024.480p.WEB-DL.x264.RMT.SoftSub.AvaMovie.mkv",
+    "description": "خانواده ای که سال ها توسط یک روح شیطانی تسخیر شده است. وقتی یکی از بچه ها می پرسد که آیا شیطان واقعی است، ایمنی آنها و محیط اطرافشان زیر سوال می رود."
+  },
+  {
+    "title": "V/H/S/Beyond (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/02e1467662179d81b77a7e35a7246ff0.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/V.H.S.Beyond.2024.480p.WEB-DL.x264.Pahe.SoftSub.AvaMovie.mkv",
+    "description": "شش نوار خون‌ ریزی وحشت را در یک منظره علمی تخیلی الهام گرفته از جهنم رها می‌کنند و مرزهای ترس را جابجا می‌کنند."
+  },
+  {
+    "title": "Hellboy The Crooked Man (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/bbd230153f1a87629ff7b060471da656.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Hellboy.The.Crooked.Man.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "پسر جهنمی و یک مامور تازه کار دفتر تحقیقات و دفاع ماوراء الطبیعه برای یک سری از تحقیقات به روستایی در آپالاشیا در دهه 1950 فرستاده می شوند. آنها به زودی جامعه ای از جادوگران را کشف می کنند که توسط یک موجود شیطانی رهبری می شود و همچنین با گذشته پسر جهنمی ارتباط دارد."
+  },
+  {
+    "title": "Beetlejuice Beetlejuice (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/fb0141ecb25d192300f6c03f1a4edb05.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Beetlejuice.Beetlejuice.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "سه نسل از خانواده دیتز پس از یک تراژدی غیرمنتظره خانوادگی به خانه در رودخانه زمستان باز می گردند. زندگی لیدیا که هنوز توسط بیتل جوس تسخیر شده است، زمانی که دختر نوجوان سرکش او دریچه ای مرموز به زندگی پس از مرگ را کشف می کند، به زودی زیر و رو می شود..."
+  },
+  {
+    "title": "Azrael (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/5b19a5d613c0c7d93e3bbedb1c50e6c7.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Azrael.2024.720p.WEB-DL.YIFY.Farsi.Sub.Film2Media.mkv",
+    "description": "در دنیایی که کسی صحبت نمی‌کند، جامعه‌ای متدین با رهبری زنان به دنبال دختری جوان هستند که از زندان فرار کرده. پس از آنکه دوباره او را دستگیر می‌کنند، قصد قربانی کردن‌اش را دارند اما..."
+  },
+  {
+    "title": "The Radleys (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/35b9c265af54d8eda2952f6d6f6e6bb6.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/The.Radleys.2024.480p.WEB-DL.Pahe.Farsi.Sub.Film2Media.mkv",
+    "description": "داستان خانواده‌ای به‌ظاهر عادی که راز شومی دارند: آن‌ها خون‌آشام هستند! خانواده رادلی برخلاف ذائقه طبیعی‌شان تصمیم گرفته‌اند تا خون‌خوار نباشند تا اینکه یک روز..."
+  },
+  {
+    "title": "Spin the Bottle (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/b5e5c4267e63fb2e5dd17b6f7520432d.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Spin.the.Bottle.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "داستان گروهی از نوجوانان در شهر کوچک تگزاس است که پس از انجام بازی معروف در خانه‌ای متروکه که زمانی قتل عام وحشتناکی در آن رخ داده، نیروی مرگباری را آزاد می‌کنند."
+  },
+  {
+    "title": "The Platform 2 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/0b331bb7300f5119fd55b3a82b9aeadf.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/The.Platform.2.2024.480p.WEB-DL.Pahe.Farsi.Sub.Film2Media.mkv",
+    "description": "پلتفرم 2، فیلمی ترسناک علمی‌تخیلی معمایی و هیجان‌انگیز به کارگردانی گالدر گازتلو اوروتیا (Galder Gaztelu-Urrutia) است. هنگامی که یک رهبر مرموز حکومت خود را در زندان بزرگ و ترسناک پلتفرم، که مجرمان مختلفی را در خود جای داده است، آغاز میکند، یک ساکن جدید، درگیر نبرد علیه این روش بحث‌برانگیز و مبارزه با سیستم تغذیه وحشیانه میشود، اما …"
+  },
+  {
+    "title": "Salems Lot (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/098685ad5b959ed3fea3a88df655b11c.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Salems.Lot.2024.480p.WEB-DL.Pahe.FilmKio.mkv",
+    "description": "وقتی نویسنده بن میرز برای یافتن الهاماتی برای کتاب بعدی خود به خانه دوران کودکی خود باز می گردد، متوجه می شود که مردم شهر زادگاهش به طور مرموزی به خون آشام های خونخوار تبدیل شده اند که..."
+  },
+  {
+    "title": "The Bad Guys Haunted Heist (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/8834cf53a231bce267c4809c4eade4bc.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/The.Bad.Guys.Haunted.Heist.2023.480p.WEB-DL.FilmKio.mkv",
+    "description": "ولف و هم گروهی هایش، قصد دارند تا آخرین سرقت هالووین خود را انجام دهند. نقشه آنها دستبرد زدن به یک عمارت قدیمی است، اما بی خبر از این هستند که عمارت ساکنین دیگری هم دارد..."
+  },
+  {
+    "title": "Hold Your Breath (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/52cfc38b28226c5e6a383dd88825fddc.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Hold.Your.Breath.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "نفست را حبس کن، فیلمی ترسناک، معمایی، درام و هیجان‌انگیز به کارگردانی مشترک کری کروس و ویلیام جوینز (Karrie Crouse و William Joines) است. در سال 1930 میلادی در اوکلاهما، در میان طوفان‌های گرد و غبار وحشتناک منطقه، یک مادر جوان که توسط گذشته خود تسخیر شده، معتقد است که خانواده‌اش توسط یک حضور مرموز و شیطانی تهدید میشوند و اقدامات خارق العاده‌ای برای محافظت از آن‌ها انجام می‌دهد، اما …"
+  },
+  {
+    "title": "Speak No Evil (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/70d2a9a020444fdfcef38987f7809c73.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Speak.No.Evil.2024.480p.WEB.RMTeam.FilmKio.mkv",
+    "description": "هنگامی که یک خانواده آمریکایی دعوت می شود تا آخر هفته را در املاک روستایی یک خانواده جذاب بریتانیایی که در تعطیلات با آنها دوست شده اند بگذرانند، اتفاقی که به عنوان یک تعطیلات رویایی شروع می شود به زودی به یک کابوس وحشتناک تبدیل می شود..."
+  },
+  {
+    "title": "Stree 2 Sarkate Ka Aatank (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/89b2f41c6775d6386bdb141469cdb841.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Stree.2.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "داستان در ادامه‌ی فیلم اول، شهر چاندرئی بار دیگر با تهدیدی مرموز روبرو می‌شود. موجودی ناشناخته به نام \"سارکتا\" وحشت را در شهر کوچک آن‌ها ایجاد می‌کند. گروهی از دوستان به همراه یک راهنمای ..."
+  },
+  {
+    "title": "Apartment 7A (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/189fc3d60092bd3313b1e2db925ebb66.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Apartment.7a.2024.480p.WEB-DL.RMTeam.FilmKio.mkv",
+    "description": "تری جیونوفریو رقصنده ای جوان است که رویای شهرت و ثروت در شهر نیویورک را در سر می پروراند، اما پس از آسیب دیدگی که برایش پیش آمد، یک زوج مسن و ثروتمند او را به خانه خود برامفورد دعوت می کنند و به اون پیشنهادی وسوسه انگیز برای رسیدن به شهرت می دهند، رفته رفته..."
+  },
+  {
+    "title": "The Front Room (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/74c95bb7b7148da77f53ed991083bbd8.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/The.Front.Room.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "همه چیز برای بلیندا که منتظر بدنیا آمدن فرزندش است، بعد از نقل مکان مادرشوهرش به خانه آنها،تبدیل به جهنم می شود، بلیندا رفته رفته متوجه رفتارهای عجیب مادرشوهرش شده و ..."
+  },
+  {
+    "title": "The Jack in the Box Rises (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/4f902256e05310e8413da9dd53226036.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/film/The.Jack.in.the.Box.Rises.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "داستان یک اسباب‌بازی دلقک کوکی که در زمین یک مدرسه دخترانه پیدا می‌شود و شش دانش‌آموز شجاع وارد مبارزه‌ای علیه یک اهریمن شرور می‌شوند که..."
+  },
+  {
+    "title": "Afraid (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/632f4e35774f6b9e397a89fe4cfe9727.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Afraid.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان خانواده کرتیس که برای آزمایش یک سیستم دستیار خانگی هوش مصنوعی به‌نام آیا، انتخاب می‌شوند. آیا سیستمی است که رفتار خانواده را زیر نظر می‌گیرد و نیازهای آن‌ها را محاسبه می‌کند اما..."
+  },
+  {
+    "title": "Here After (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/c1caeb78ffc88c6c00962bb4d13dfbc9.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Here.After.2024.480p.WEB-DL.RMT.SoftSub.AvaMovie.mkv",
+    "description": "وقتی که دختر کلر پس از یک تصادف مرگبار به طرز معجزه‌آسا به زندگی برمی‌گردد، او از خوشحالی در پوست خود نمی‌گنجد، اما وقتی کلر تغییراتی در دخترش مشاهده می‌کند شادی او به ترس تبدیل می‌شود و مشکوک می‌شود که چیزی تاریک از لبه مرگ با دخترش برگشته است."
+  },
+  {
+    "title": "Cuckoo (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/f0cd6d5c11d353d21bad25b38cbcdbd8.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Cuckoo.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "یک دختر 17 ساله مجبور می شود با خانواده اش به استراحتگاهی نقل مکان کند که همه چیز آنطور که به نظر می رسد نیست."
+  },
+  {
+    "title": "New Normal (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/1da9e80014eedadc2b2780f74bf800c0.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/New.Normal.2023.480p.AMZN.WEB-DL.SS.mkv",
+    "description": "شش آدم مختلف، در طول چهار روز به روش های غیرمنتظره و نگران کننده ای، زندگیشان با هم تلاقی پیدا می کند…"
+  },
+  {
+    "title": "The Crow (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/f6f8ace5923e6072b1983d01c7549372.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/The.Crow.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "اریک و شلی،به طرز وحشیانه ای به قتل می رسند. اریک با این شانس که عشق واقعی خود را با قربانی کردن خود نجات دهد، به دنبال انتقام بی‌رحمانه از قاتلان آن‌ها می رود و دنیای زنده‌ها و مردگان را می‌پیماید تا اشتباهات گذشته را اصلاح کند و ..."
+  },
+  {
+    "title": "The Deliverance (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/b6e0cf034e915386999f1e3527375bf4.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/The.Deliverance.2024.480p.WEBRip.x264.AAC.ZarFilm.mkv",
+    "description": "رهایی؛ فیلمی فراطبیعی ترسناک به کارگردانی لی دنیلز است. فیلم که از یک داستان واقعی الهام گرفته شده، ماجرای یک خانواده اهل ایندیانا است که متوجه وقایع عجیب و شیطانی می‌شوند که آن‌ها و جامعه‌شان را متقاعد می‌کند که خانه‌شان به نوعی دروازه‌ و ورودی به جهنم است…"
+  },
+  {
+    "title": "Out Come the Wolves (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/52ced22ef3f9e7c9f9d466aecfc8accb.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Out.Come.the.Wolves.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "سه دوست تصمیم می گیرند آخر هفته را به شکار بگذرانند، اما زمانی که تصمیم می گیرند از کلبه خود که در اعماق یک جنگل وجود دارد، خارج شوند. توسط دسته ای از گرگ ها خود تبدیل به شکار می شوند و ..."
+  },
+  {
+    "title": "Trap (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/ee422dfcd48b7385353847678c129f5d.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Trap.2024.480p.WEB-DL.Pahe.Farsi.Sub.Film2Media.mkv",
+    "description": "یک پدر و دختر نوجوانش در یک کنسرت پاپ شرکت می‌کنند،اما به مرور متوجه می شوند که در واقع به یک مرکز رویداد تاریک و شوم آمده اند و ..."
+  },
+  {
+    "title": "Munjya (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/fe4bb6bc6f1b5e8580afdefbd18ce43a.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Munjya%202024.480p%20WEB-DL.FarsiSub.Bollywood1.mkv",
+    "description": "طبق باورهای قدیمی اگر پسری قبل از اینکه ده روز از تراشیدن سرش بگذرد بمیرد، تبدیل به شیطانی ترسناک و پلید میشود ، حالا در یک منطقه ای چنین شیطانی دیده شده و ظاهرا او میخواهد شخصی را تسخیر کندو.."
+  },
+  {
+    "title": "Aranmanai 4 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/051e864cb669719a7aa1df8dbfab0f40.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Aranmanai.4.2024.480p.HDRip.ZarFilm.mkv",
+    "description": "پس از مرگ مشکوک خواهرش، مردی مصمم می‌شود تا راز پنهان پشت این اتفاق را کشف کند. اما این جستجو برای حقیقت، او را به ورطه‌ی آشوب و وحشت می‌کشاند و ..."
+  },
+  {
+    "title": "Longlegs (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/31a23b67153456e84bcaec204fc58746.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Longlegs.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "مامور اف‌بی‌آی لی هارکر برای اتمام یک پرونده قتل های زنجیره ای حل‌نشده منصوب می‌شود.درگیر و دار تعقیب قاتل زنجیره ای خطرناک مورد نظر، هارکر متوجه ارتباط شخصی که با او دارد می شود، همین چرخش غیر منتظره در پرونده، باعث می شود که مجموعه ای از سرنخ های پنهانی را کشف نماید و ..."
+  },
+  {
+    "title": "Dagr (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/03c56764951bc750d77aa512a3b0dca7.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Dagr.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان دو یوتیوبر به‌نام‌های تئا و لوئیز که قصد دارند برای مشهور شدن، تجهیزات و اشیاء گران‌قیمت را بدزدند تا به افراد نیازمند بدهند اما..."
+  },
+  {
+    "title": "Oddity (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/efa537eee272f44753e051e3cc330a87.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Oddity.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "پس از قتل وحشیانه خواهر دوقلویش، دارسی با استفاده از وسایل تسخیر شده به عنوان ابزار انتقام، به دنبال افرادی که مسئول این عمل هولناک هستند، می رود..."
+  },
+  {
+    "title": "Darling (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/074e839681847ccab3ca3c1fb5f2849d.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Darling.2024.480p.WEB-DL.ZarFilm.mkv",
+    "description": "یک کارمند دفتر توریستی به نام راغاو، در حالی که برای ماه عسل رویایی خود در پاریس پس انداز می کند، به طور ناخواسته با آناندی ازدواج می کند و در نتیجه یک سری چالش ها را به همراه دارد که باید با آن ..."
+  },
+  {
+    "title": "Consumed (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/33f43c7535d0433a296e35757c3cd610.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Consumed.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "داستان این فیلم در مورد زوجی جوان به نام جی و بث می‌باشد که یک سال پس از بهبودی سرطان بث به یک سفر طبیعت‌گردی می‌روند، اما به زودی گرفتار یک فرد دیوانه وحشی و یک هیولای ترسناک شده و باید برای زنده ماندن مبارزه کنند…"
+  },
+  {
+    "title": "Latency (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/32ed7690f4a868cd5f320a1e01e86456.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Latency.2024.480p.WEB-DL.RMT.SoftSub.AvaMovie.mkv",
+    "description": "یک گیمر حرفه‌ای به نام هانا از اختلال اضطراب حاد رنج می‌برد. در این میان او پس از دریافت تجهیزات جدید بازی، با حوادثی مرموز و ترسناک روبرو شده و..."
+  },
+  {
+    "title": "The Beast Within (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/18276f8da560ab71a3b9072a346110bb.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/The.Beast.Within.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان دختری ده ساله به‌نام ویلو که همیشه برایش سؤال است چرا خانواده‌اش در اعماق جنگل زندگی می‌کنند، تا اینکه شبی پدر و مادرش را در جنگل دنبال می‌کند و..."
+  },
+  {
+    "title": "The Train of Death (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/e06f36a4a0477266bd08679f90aa96e9.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Kereta.Berdarah.2024.480p.NF.WEB-DL.x264.Pahe.SoftSub.AvaMovie.mkv",
+    "description": "ترس و وحشت خونین، یکی پس از دیگری واگن‌های قطار سانگکارا را از بین می‌برد و جان مسافران را به خطر می‌اندازد."
+  },
+  {
+    "title": "Horror in the High Desert 3 Firewatch (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/382e66536f82e7b18718aa70a719a683.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Horror.in.the.High.Desert.3.Firewatch.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "اسکار مندوزا برای یافتن طبیعتگرد گمشده‌ای به نام گَری هینج، سفر خطرناکی را آغاز می‌کند. او ..."
+  },
+  {
+    "title": "Kakuda (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/9808b6d4125b827f7548e91a8e92e2bf.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Kakuda.2024.Hindi.480p.WEB-DL.x264.SoftSub.AvaMovie.mkv",
+    "description": "داستان در مورد شهری است که به دام یک نفرین افتاده است و 3 نفر از ساکنان آن با روحی روبرو می شوند که باعث می شود خرافات، سنت و عشق را زیر سوال ببرند."
+  },
+  {
+    "title": "MaXXXine (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/3a7c9210dc6d6d0497ff7ac5b51c46bf.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Ma.XX.Xine.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "در سال 1985، در لس آنجلس،علی‌رغم اینکه تمام تجربیات بازیگری مکسین مینکس در گذشته مربوط به فیلم بزرگسالان می شود،او توانست با موفقیت تست بازیگری برای نقش اول فیلم ترسناک جدید، The Puritan II را پشت سر بگذارد.در همین حین یک قاتل زنجیره ای مرموز که ستاره های هالیوودی را مورد هدف قرار می دهد، مکسین را تهدید به افشای گذشته تاریک و شوم اش می کند..."
+  },
+  {
+    "title": "A Quiet Place Day One (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/8db155ba9203239280839dc6fed5a768.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/A.Quiet.Place.Day.One.2024.480p.WebRip.x264.SoftSub.AvaMovie.mkv",
+    "description": "داستان زنی جوان به‌نام سم که در روزهای اول حمله بیگانگان با قدرت شنوایی بسیار بالا، در نیویورک گیر می‌افتد و حالا باید فقط به فکر زنده ماندن باشد."
+  },
+  {
+    "title": "Anaconda (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/811c2862caa58f9bd07fa97ea6f9d0fe.jpg",
+    "videoUrl": "http://drive.google.dl175m.info/film/Anaconda.2024.480p.WEB-DL.x264.SoftSub.AvaMovie.mkv",
+    "description": "وایت سفر گروهی از تصویربرداران به سمت آمازون است که برای ساخت مستندی به دنبال ماری غول پیکر هستند. آنها در این سفر با خطرات زیادی دست و پنجه نرم می کنند."
+  },
+  {
+    "title": "Tarot (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/cc996da9c149c7e7a99b6ebead5d4047.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Tarot.480p.WEB-DL-BaroMovie.mkv",
+    "description": "تاروت؛ فیلمی آنتولوژی ترسناک درام معمایی چوی بیونگ-گیل است. داستان افرادی را دنبال می‌کند که زندگی‌شان پس از دریافت کارت‌های تاروت مختلف تغییر می‌کند. زندگی آن‌ها به مسیری شوم کشیده می‌شود، در حالی که تلاش می‌کنند با سرنوشت جدید خود بقاء یابند…"
+  },
+  {
+    "title": "Lowlifes (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/755ddef1518cdb284ddd3215fbb38100.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Lowlifes.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان یک خانواده در سفر که مجبور می‌شوند شب را در یک خانه دور افتاده بگذرانند و حالا در خطر بزرگی قرار می‌گیرند که باید برای زنده ماندن تلاش کنند."
+  },
+  {
+    "title": "The Inheritance (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/26be7b51c616b2fbfa0ccd11ebf867c4.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/film/The.Inheritance.2024.480p.WEB-DL.RMTeam.FilmKio.mkv",
+    "description": "در این فیلم پس از مرگ یک مخترع عجیب و غریب به نام ولادیسلاو، اعضای خانواده دور هم جمع می شوند تا ثروت او را به ارث ببرند. اما به طور غیر منتظره‌ای، ولادیسلاو برای امتحان کردن کار گروهی و سازش میان آن‌ها، پیش از مرگش یک بازی طراحی کرده است و…"
+  },
+  {
+    "title": "Blackwater Lane (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/c727315f85dbfc213334f48d9f56bc5e.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/Blackwater.Lane.2024.720p.WEB-DL.AAC.YIFY.SoftSub.AvaMovie.mkv",
+    "description": "کاس وقتی حضوری ماورایی و ترسناک را در خانه خود احساس می‌کند، شروع به زیر سوال بردن سلامت عقل خود می‌کند. وقوع حوادث مرموز و ترسناک در اطراف کاس زیاد می‌شود، او نقشه‌ای شوم و وحشتناک را کشف می‌کند."
+  },
+  {
+    "title": "The Exorcism (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/b53cd9ff81c8a3f1a6f3e1f6c14be359.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/The.Exorcism.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "در این فیلم با یک پدر روحانی به نام آنتونی میلر مواجه می‌شویم که زندگی پرفراز و نشیب و گذشته تیره و تاریکی را تجربه کرده است. حال به عنوان یک مرد روحانی به سر صحنه تولید فیلمی ترسناک دعوت می‌شود؛ فیلمی که او را با اتفاقات ماورایی و وحشتناکی روبرو کرده تا حدی که ایمانش به خدا را به چالش کشیده است..."
+  },
+  {
+    "title": "The Sin (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/3ed1039a3c95b7bd2cf90c8661dc1486.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/The.Sin.2024.480p.WEB-DL.Farsi.Sub.Film2Media.mkv",
+    "description": "شی یونگ برای بازی در یک فیلم هنری با محوریت رقص انتخاب می شود. اما بعد یکی از اعضای تیم تولید از پشت بام سقوط می کند و بدن بی جانش شروع به حرکت می کند…"
+  },
+  {
+    "title": "The Devils Bath (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/109aa6ccdae4f4522f471b577c93e848.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/The.Devils.Bath.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "اتریش در قرن 18 جنگل ها روستاها را احاطه کرده اند. با کشتن نوزاد، یک زن به اعدام محکوم می شود. اگنس برای زندگی زناشویی با معشوقش آماده می شود. اما یک مسیر تاریک و افکار شیطانی به وجود می آیند."
+  },
+  {
+    "title": "In a Violent Nature (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/aabd331c6c07eff7ffbc86daf2b532c3.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/In.a.Violent.Nature.2024.480p.WEB-DL.AAC.ZarFilm.mkv",
+    "description": "هنگامی که جسد پوسیده جانی که در یک جنگل دفن شده بود، بیرون آورده می‌شود، روحی انتقام جو وارد جسد او شده و جانی را دوباره زنده می‌کند. حال این قاتل هرکسی را که سر راهش قرار می‌گیرد از بین می برد."
+  },
+  {
+    "title": "The Watchers (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/be04e8b97435a742494a915f9ec9e94c.jpg",
+    "videoUrl": "http://s1.giftmond.ir/filmjadid/The.Watchers.2024.480p.WEB-DL.HardSub.DigiMoviez.mp4",
+    "description": "داستان هنرمند جوانی که در یک جنگل بزرگ گیر می‌افتد و پس از یافتن پناهگاه، به همراه سه غریبه دیگر در آنجا به تله می‌افتد، پناهگاهی که هر شب موجوداتی مرموز آن‌ها را نظارت می‌کنند."
+  },
+  {
+    "title": "Handling the Undead (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/df392fc90c6760c441bb263c0f5e8547.jpg",
+    "videoUrl": "http://peer.tct.124.giftmond.ir/film/Handling.the.Undead.2024.480p.WEB-DL.SoftSub.DigiMoviez.mkv",
+    "description": "داستان در اسلو و تابستانی گرم اتفاق می‌افتد، زمانی که مردگان ناگهان زنده می‌شوند و سه خانواده پس از مواجه شدن با عزیزان از دست رفته‌شان، کاملاً دگرگون می‌شوند. سؤال اینجاست: آن‌ها چه کسانی هستند و چه می‌خواهند؟"
+  },
+  {
+    "title": "Winnie the Pooh Blood and Honey 2 (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/e513fe978a06103bda7ebe0a135851a4.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/Winnie-the-Pooh.Blood.And.Honey.2.2024.480p.WEB-DL.FilmKio.mkv",
+    "description": "پنج ماه پس از سری قتل های فجیع، کریستوفر رابین سعی می کند در حالی که با بیماری \"اختلال اضطراب پس از سانحه\" خود دست و پنجه نرم می کند، به زندگی عادی خود بازگردد. در اعماق جنگل 100 آکری،زمانی که وینی پو، پیگلت، جغد و ببری پس از فاش شدن وجودشان، خانه و زندگی خود را در خطر می یابند. دوباره به خشونت بی حد و حصر روی می آورند..."
+  },
+  {
+    "title": "I Saw the TV Glow (2024)",
+    "imageUrl": "http://gitcss.info/uploads/cache/poster_thumb/uploads/jpg/017cd9f52d02ab19313ce0e09ac9c44f.jpg",
+    "videoUrl": "http://exchange.port.sn.giftmond.ir/film/I.Saw.the.TV.Glow.2024.480p.WEB-DL.SoftSub.AvaMovie.mkv",
+    "description": "اوون که از طریق همکلاسی خود با یک برنامه تلویزیونی مرموز آشنا می‌شود که در اواخر شب پخش شده و تصویری از یک دنیای ماورایی را به نمایش می‌گذارد."
   }
 ]
