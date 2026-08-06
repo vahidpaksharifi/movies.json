@@ -40,5 +40,11 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785966813595.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785913610366.json"
+  },
+  {
+    "name": "درام",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1786039881555.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1786039881555.json"
   }
 ]
