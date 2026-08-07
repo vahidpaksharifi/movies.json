@@ -8,5 +8,15 @@
     "linkUrl": "http:\/\/www.google.com",
     "force": false,
     "minVersion": 0
+  },
+  {
+    "id": "notice_1786115870893",
+    "type": "update",
+    "title": "سلام",
+    "message": "تااا",
+    "buttonText": "مشاهده",
+    "linkUrl": "www",
+    "force": false,
+    "minVersion": 2
   }
 ]
