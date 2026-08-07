@@ -1,15 +1,5 @@
 [
   {
-    "id": "notice_1786115791885",
-    "type": "news",
-    "title": "سلام",
-    "message": "تست برنامه",
-    "buttonText": "مشاهده بروزرسانی",
-    "linkUrl": "http:\/\/www.google.com",
-    "force": false,
-    "minVersion": 0
-  },
-  {
     "id": "notice_1786115870893",
     "type": "update",
     "title": "سلام",
@@ -18,5 +8,15 @@
     "linkUrl": "www",
     "force": false,
     "minVersion": 2
+  },
+  {
+    "id": "notice_1786115791885",
+    "type": "news",
+    "title": "سلام",
+    "message": "تست برنامه",
+    "buttonText": "مشاهده بروزرسانی",
+    "linkUrl": "http:\/\/www.google.com",
+    "force": false,
+    "minVersion": 0
   }
 ]
