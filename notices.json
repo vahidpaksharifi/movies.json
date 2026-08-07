@@ -1,15 +1,5 @@
 [
   {
-    "id": "notice_1786115870893",
-    "type": "update",
-    "title": "سلام",
-    "message": "تااا",
-    "buttonText": "مشاهده",
-    "linkUrl": "www",
-    "force": false,
-    "minVersion": 2
-  },
-  {
     "id": "notice_1786115791885",
     "type": "news",
     "title": "سلام",
