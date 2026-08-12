@@ -1,18 +1,11 @@
 [
   {
-    "id": "fb_1786510575302",
-    "name": "وحید",
-    "text": "بسیار عالی،🎉🔥",
-    "date": "2026-08-12T08:26:15",
-    "read": true,
-    "reply": "ممنون",
-    "replyDate": "2026-08-12T09:30:11"
-  },
-  {
     "id": "fb_1786514493204",
     "name": "Vahid Paksharifi",
     "text": "عالی",
     "date": "2026-08-12T09:31:33",
-    "read": false
+    "read": false,
+    "reply": "",
+    "replyDate": ""
   }
 ]
