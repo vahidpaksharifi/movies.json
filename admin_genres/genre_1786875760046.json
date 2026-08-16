@@ -12,9 +12,9 @@
     "description": ""
   },
   {
-    "title": "شبکه خبر",
+    "title": "شبکه 3",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786878074231.jpg",
-    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/irinn\/live\/playlist.m3u8",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/tv3\/live\/playlist.m3u8",
     "description": ""
   },
   {
@@ -53,5 +53,4 @@
     "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/irinn\/live\/playlist.m3u8",
     "description": ""
   }
-
 ]
