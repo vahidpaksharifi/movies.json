@@ -6,12 +6,6 @@
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/movies.json"
   },
   {
-    "name": "تلویزیون زنده",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1784933136277.jpg",
-    "type": "movies",
-    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/live\/tv.json"
-  },
-  {
     "name": "تلوزیون",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1786875644863.jpg",
     "type": "category",
