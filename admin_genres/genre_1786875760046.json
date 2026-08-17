@@ -58,5 +58,65 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875837824.jpg",
     "videoUrl": "https:\/\/live-khwarizmi1308.telewebion.ir\/ek\/namayesh\/live\/playlist.m3u8",
     "description": ""
+  },
+  {
+    "title": "شبکه 1",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786940965869.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/tv1\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "شبکه 2",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875938387.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/tv2\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "شبکه 3",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786940716375.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/tv3\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "شبکه 4",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875837824.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/tv4\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "شبکه 5",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786940565751.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/nasim\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "شبکه خبر",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786879862518.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/irinn\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "ورزش",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875837824.jpg",
+    "videoUrl": "https:\/\/live-kashani1314.telewebion.ir\/ek\/varzesh\/live\/playlist.m3u8",
+    "description": "varzesh"
+  },
+  {
+    "title": "تماشا",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875938387.jpg",
+    "videoUrl": "https:\/\/live-khwarizmi1308.telewebion.ir\/ek\/hdtest\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "پویا",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786941257988.jpg",
+    "videoUrl": "https:\/\/live-khwarizmi1308.telewebion.ir\/ek\/pooya\/live\/playlist.m3u8",
+    "description": ""
+  },
+  {
+    "title": "آی فیلم",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1786875837824.jpg",
+    "videoUrl": "https:\/\/live-khwarizmi1308.telewebion.ir\/ek\/namayesh\/live\/playlist.m3u8",
+    "description": ""
   }
 ]
