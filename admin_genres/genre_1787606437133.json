@@ -4,5 +4,11 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787606474663.jpg",
     "videoUrl": "https:\/\/hls.247box.live:443\/hls\/stream.m3u8",
     "description": ""
+  },
+  {
+    "title": "پرشیانا کره",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787607141337.jpg",
+    "videoUrl": "https:\/\/korhls.persiana.live\/hls\/stream.m3u8",
+    "description": "https:\/\/iptv-org.github.io\/iptv\/countries\/ir.m3u"
   }
 ]
