@@ -70,5 +70,11 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1787746505303.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1787746505303.json"
+  },
+  {
+    "name": "اکشن",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1787947851649.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1787947851649.json"
   }
 ]
