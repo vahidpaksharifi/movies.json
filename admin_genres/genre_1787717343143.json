@@ -12,10 +12,10 @@
     "url1080": ""
   },
   {
-    "title": "247 box",
+    "title": "bbc",
     "titlefa": "",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787606474663.jpg",
-    "videoUrl": "https:\/\/hls.247box.live:443\/hls\/stream.m3u8",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787609552408.jpg",
+    "videoUrl": "https:\/\/vs-hls-pushb-ww-live.akamaized.net\/x=4\/i=urn:bbc:pips:service:bbc_persian_tv\/t=3840\/v=pv14\/b=5070016\/main.m3u8",
     "description": "",
     "country": "",
     "trailerUrl": "",
@@ -24,10 +24,10 @@
     "url1080": ""
   },
   {
-    "title": "bbc",
+    "title": "247 box",
     "titlefa": "",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787609552408.jpg",
-    "videoUrl": "https:\/\/vs-hls-pushb-ww-live.akamaized.net\/x=4\/i=urn:bbc:pips:service:bbc_persian_tv\/t=3840\/v=pv14\/b=5070016\/main.m3u8",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787606474663.jpg",
+    "videoUrl": "https:\/\/hls.247box.live:443\/hls\/stream.m3u8",
     "description": "",
     "country": "",
     "trailerUrl": "",
