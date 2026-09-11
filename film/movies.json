@@ -1,15 +1,15 @@
 [
   {
-    "name": "ترسناک",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785324480391.jpg",
-    "type": "movies",
-    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/film.json"
-  },
-  {
     "name": "علمی تخیلی",
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785537217866.jpg",
     "type": "movies",
     "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1785415919318.json"
+  },
+  {
+    "name": "ترسناک",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1785324480391.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/film\/film.json"
   },
   {
     "name": "عاشقانه",
