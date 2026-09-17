@@ -26,8 +26,8 @@
   {
     "title": "6 Wise Tv",
     "titlefa": "",
-    "imageUrl": "https://jrlist70.pages.dev/list/wise.png",
-    "videoUrl": "https://live.enhdtv.com:8081/8150/index.m3u8",
+    "imageUrl": "https:\/\/jrlist70.pages.dev\/list\/wise.png",
+    "videoUrl": "https:\/\/live.enhdtv.com:8081\/8150\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -35,7 +35,7 @@
     "title": "48 Hours",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
+    "videoUrl": "https:\/\/dai.google.com\/linear\/hls\/event\/JUr94WL2QAiVpGNHY5n5dA\/master.m3u8",
     "description": "",
     "country": ""
   },
@@ -43,7 +43,7 @@
     "title": "A&E",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://23.239.31.26:8989/aande/index.m3u8",
+    "videoUrl": "http:\/\/23.239.31.26:8989\/aande\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -51,7 +51,7 @@
     "title": "A&E Latin America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://138.121.15.230:9002/A&E/index.m3u8",
+    "videoUrl": "http:\/\/138.121.15.230:9002\/A&E\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -59,7 +59,7 @@
     "title": "A&E Latin America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://190.93.224.42/AYE/index.m3u8",
+    "videoUrl": "http:\/\/190.93.224.42\/AYE\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -67,7 +67,7 @@
     "title": "A&E Latin America Brazil",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://170.83.16.50/AeE/index.m3u8",
+    "videoUrl": "http:\/\/170.83.16.50\/AeE\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -75,7 +75,7 @@
     "title": "ABC",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
+    "videoUrl": "http:\/\/190.11.225.124:5000\/live\/abc_hd\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -83,7 +83,7 @@
     "title": "ABC West",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://stream.cammonitorplus.net/1797/index.m3u8",
+    "videoUrl": "http:\/\/stream.cammonitorplus.net\/1797\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -91,7 +91,7 @@
     "title": "ABN Afghanistan",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abnafghanistan.m3u8",
     "description": "",
     "country": ""
   },
@@ -99,7 +99,7 @@
     "title": "ABN Africa",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abnafrica.m3u8",
     "description": "",
     "country": ""
   },
@@ -107,7 +107,7 @@
     "title": "ABN Bible Movies",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abnbiblemovies.m3u8",
     "description": "",
     "country": ""
   },
@@ -115,7 +115,7 @@
     "title": "ABN China",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abnchina.m3u8",
     "description": "",
     "country": ""
   },
@@ -123,7 +123,7 @@
     "title": "ABN Freedom of Speech",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/freedom_of_speech.m3u8",
     "description": "",
     "country": ""
   },
@@ -131,7 +131,7 @@
     "title": "ABN I AM",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/i_am_.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/i_am_.m3u8",
     "description": "",
     "country": ""
   },
@@ -139,7 +139,7 @@
     "title": "ABN Son of God",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/son_of_god_.m3u8",
     "description": "",
     "country": ""
   },
@@ -147,7 +147,7 @@
     "title": "ABN TV India",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abntvindia.m3u8",
     "description": "",
     "country": ""
   },
@@ -155,7 +155,7 @@
     "title": "ABN Urdu",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
+    "videoUrl": "https:\/\/mediaserver.abnvideos.com\/streams\/abnurdu.m3u8",
     "description": "",
     "country": ""
   },
@@ -163,7 +163,7 @@
     "title": "Access 4 PAC",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8",
+    "videoUrl": "https:\/\/reflect-channel18vod-springfield-il-us.cablecast.tv\/live-16\/live\/stream-4\/live.m3u8",
     "description": "",
     "country": ""
   },
@@ -171,7 +171,7 @@
     "title": "Access 19",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8",
+    "videoUrl": "https:\/\/reflect-montgomerycommunitymedia.cablecast.tv\/live-8\/live\/stream-3\/live.m3u8",
     "description": "",
     "country": ""
   },
@@ -179,7 +179,7 @@
     "title": "Access Nashua",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "videoUrl": "https:\/\/livestream.telvue.com\/nashuanh1\/f7b44cfafd5c52223d5498196c8a2e7b.sdp\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -187,7 +187,7 @@
     "title": "AccessVision Channel 16",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "videoUrl": "https:\/\/livestream.telvue.com\/accvision1\/f7b44cfafd5c52223d5498196c8a2e7b.sdp\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -195,7 +195,7 @@
     "title": "AccessVision Channel 17",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "videoUrl": "https:\/\/livestream.telvue.com\/accvision2\/f7b44cfafd5c52223d5498196c8a2e7b.sdp\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -203,7 +203,7 @@
     "title": "AccuWeather NOW",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://23.239.31.26:8989/accuweather/index.m3u8",
+    "videoUrl": "http:\/\/23.239.31.26:8989\/accuweather\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -211,7 +211,7 @@
     "title": "Ace TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
+    "videoUrl": "https:\/\/c.streamhoster.com\/link\/hls\/W5s3fS\/inLo5pcsHjo\/iqg9wps0m1x_5\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -219,7 +219,7 @@
     "title": "ACTV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8",
+    "videoUrl": "https:\/\/castus-vod-dev.s3.amazonaws.com\/vod_clients\/athens\/live\/ch2\/video.m3u8",
     "description": "",
     "country": ""
   },
@@ -227,7 +227,7 @@
     "title": "Adult Swim Latin America Brazil",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
+    "videoUrl": "http:\/\/168.197.104.22\/ADULT_SWIM\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -235,7 +235,7 @@
     "title": "AfroLandTV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://alt-al.otteravision.com/alt/al/al.m3u8",
+    "videoUrl": "https:\/\/alt-al.otteravision.com\/alt\/al\/al.m3u8",
     "description": "",
     "country": ""
   },
@@ -243,7 +243,7 @@
     "title": "AFTV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "videoUrl": "https:\/\/livestream.telvue.com\/accframingham1\/f7b44cfafd5c52223d5498196c8a2e7b.sdp\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -251,7 +251,7 @@
     "title": "Akaku 53 (Hawaii)",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8",
+    "videoUrl": "https:\/\/castus-vod-dev.s3.amazonaws.com\/vod_clients\/akaku\/live\/ch1\/video.m3u8",
     "description": "",
     "country": ""
   },
@@ -259,7 +259,7 @@
     "title": "Akaku 54 (Hawaii)",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8",
+    "videoUrl": "https:\/\/castus-vod-dev.s3.amazonaws.com\/vod_clients\/akaku\/live\/ch2\/video.m3u8",
     "description": "",
     "country": ""
   },
@@ -267,7 +267,7 @@
     "title": "Akaku 55 (Hawaii)",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8",
+    "videoUrl": "https:\/\/castus-vod-dev.s3.amazonaws.com\/vod_clients\/akaku\/live\/ch3\/video.m3u8",
     "description": "",
     "country": ""
   },
@@ -275,7 +275,7 @@
     "title": "AKC TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
+    "videoUrl": "https:\/\/broadcast.blivenyc.com\/speed\/broadcast\/22\/desktop-playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -283,7 +283,7 @@
     "title": "AKC TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
+    "videoUrl": "https:\/\/install.akctvcontrol.com\/speed\/broadcast\/138\/desktop-playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -291,23 +291,15 @@
     "title": "AKC TV Meet The Breeds",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+    "videoUrl": "https:\/\/install.akctvcontrol.com\/speed\/broadcast\/139\/desktop-playlist.m3u8",
     "description": "",
     "country": ""
   },
   {
-    "title": "AKC TV Puppies 24/7",
+    "title": "AKC TV Puppies 24\/7",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
-    "description": "",
-    "country": ""
-  },
-  {
-    "title": "Al Horreya TV",
-    "titlefa": "",
-    "imageUrl": "",
-    "videoUrl": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
+    "videoUrl": "https:\/\/install.akctvcontrol.com\/speed\/broadcast\/140\/desktop-playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -315,7 +307,15 @@
     "title": "Al Horreya TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
+    "videoUrl": "http:\/\/media.smc-host.com:1935\/alhorreya.tv\/mp4:alhorreya3\/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Al Horreya TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http:\/\/media.smc-host.com:1935\/alhorreya.tv\/alhorreya.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -323,7 +323,7 @@
     "title": "Al-Fady TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/5d658d7e9f562.streamlock.net\/alfadytv.tv\/alfadytv.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -331,7 +331,7 @@
     "title": "Al-MahdiTV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
+    "videoUrl": "https:\/\/iptv.almahditv.com\/almahditv\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -339,7 +339,7 @@
     "title": "Alabama Weather Network",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8",
+    "videoUrl": "https:\/\/alwxnet-ott-proxy.cloud9streaming.com\/alwxnet\/live\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -347,7 +347,7 @@
     "title": "Alhurra",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
+    "videoUrl": "https:\/\/mbn-ingest-worldsafe.akamaized.net\/hls\/live\/2038900\/MBN_Alhurra_Worldsafe_HLS\/master.m3u8",
     "description": "",
     "country": ""
   },
@@ -355,7 +355,7 @@
     "title": "Alhurra",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
+    "videoUrl": "https:\/\/mbn-ingest-worldsafe.akamaized.net\/hls\/live\/2038900\/MBN_Alhurra_Worldsafe_HLS\/merge.m3u8",
     "description": "",
     "country": ""
   },
@@ -363,7 +363,7 @@
     "title": "Alhurra Iraq",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
+    "videoUrl": "https:\/\/mbn-ingest-worldsafe.akamaized.net\/hls\/live\/2038899\/MBN_Iraq_Worldsafe_HLS\/master.m3u8",
     "description": "",
     "country": ""
   },
@@ -371,7 +371,7 @@
     "title": "Aliento Vision",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
+    "videoUrl": "https:\/\/627bb251f23c7.streamlock.net:444\/Alientoenvivo\/Alientoenvivo\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -379,7 +379,7 @@
     "title": "Alkarma TV Australia",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/58cc65c534c67.streamlock.net\/alkarmatv.com\/alkarmaau.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -387,7 +387,7 @@
     "title": "Alkarma TV Australia",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/5a8308add0b31.streamlock.net\/alkarmatv.com\/alkarmaau.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -395,7 +395,7 @@
     "title": "Alkarma TV Family",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/58cc65c534c67.streamlock.net\/alkarmatv.com\/alkarmaNA2.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -403,7 +403,7 @@
     "title": "Alkarma TV Middle East",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/58cc65c534c67.streamlock.net\/alkarmatv.com\/alkarmame1.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -411,7 +411,7 @@
     "title": "Alkarma TV North America & Canada",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/5aafcc5de91f1.streamlock.net\/alkarmatv.com\/alkarmana1.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -419,7 +419,7 @@
     "title": "Alkarma TV Praise",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/58cc65c534c67.streamlock.net\/alkarmatv.com\/alkarmapa.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -427,7 +427,7 @@
     "title": "Alkarma TV Talmaza (Discipleship)",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/58cc65c534c67.streamlock.net\/alkarmatv.com\/alkarmame2.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -435,7 +435,7 @@
     "title": "Alkarma TV Youth & English",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/5aafcc5de91f1.streamlock.net\/alkarmatv.com\/alkarmaus.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -443,7 +443,7 @@
     "title": "Almagd TV Middle East",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/597f64b67707a.streamlock.net\/almagd.tv\/almagd.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -451,7 +451,7 @@
     "title": "Almagd TV North America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "videoUrl": "https:\/\/5aafcc5de91f1.streamlock.net\/almagd.tv\/almagd.smil\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -459,7 +459,7 @@
     "title": "Amazing Facts TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8",
+    "videoUrl": "https:\/\/hlspackager.akamaized.net\/live\/DB\/AMAZING_FACTS\/HLS\/AMAZING_FACTS.m3u8",
     "description": "",
     "country": ""
   },
@@ -467,7 +467,7 @@
     "title": "AMC",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://23.239.31.26:8989/amc/index.m3u8",
+    "videoUrl": "http:\/\/23.239.31.26:8989\/amc\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -475,7 +475,7 @@
     "title": "AMC East",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
+    "videoUrl": "http:\/\/190.11.225.124:5000\/live\/amc_hd\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -483,7 +483,7 @@
     "title": "AMC Latin America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://15.204.246.24:8080/AMCHD/index.m3u8",
+    "videoUrl": "http:\/\/15.204.246.24:8080\/AMCHD\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -491,7 +491,7 @@
     "title": "AMC Latin America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://45.162.193.35/AMC/index.m3u8",
+    "videoUrl": "http:\/\/45.162.193.35\/AMC\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -499,7 +499,7 @@
     "title": "AMC Latin America",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://45.171.108.253:8888/AMC/index.m3u8",
+    "videoUrl": "http:\/\/45.171.108.253:8888\/AMC\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -507,7 +507,7 @@
     "title": "AMC Latin America Brazil",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+    "videoUrl": "http:\/\/170.83.49.66:8083\/AMCHD\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -515,7 +515,7 @@
     "title": "American Horrors",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "videoUrl": "http:\/\/107.167.7.162:8081\/playlist\/amhor\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -523,7 +523,7 @@
     "title": "AMG TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+    "videoUrl": "https:\/\/2-fss-2.streamhoster.com\/pl_138\/201660-1270634-1\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -531,7 +531,7 @@
     "title": "Amga TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
+    "videoUrl": "https:\/\/streamer1.connectto.com\/AMGA_WEB_1202\/playlist.m3u8",
     "description": "",
     "country": ""
   },
@@ -539,7 +539,7 @@
     "title": "Amu TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
+    "videoUrl": "https:\/\/jmc-live.ercdn.net\/amutv\/amutv.m3u8",
     "description": "",
     "country": ""
   },
@@ -547,7 +547,7 @@
     "title": "ATL 26",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
+    "videoUrl": "https:\/\/securestream11.champds.com\/LIVE\/AtlantaGALIVE\/AtlantaGALIVE.m3u8",
     "description": "",
     "country": ""
   },
@@ -555,7 +555,7 @@
     "title": "Atlas",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "videoUrl": "https:\/\/cdn.whiplash.cc\/whiplash-atlas\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -563,7 +563,7 @@
     "title": "ATXN1",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
+    "videoUrl": "https:\/\/cdn-atxn-01.vos360.video\/Content\/HLS\/Live\/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -571,7 +571,7 @@
     "title": "ATXN2",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
+    "videoUrl": "https:\/\/cdn-atxn-01.vos360.video\/Content\/HLS\/Live\/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -579,7 +579,7 @@
     "title": "ATXN3",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
+    "videoUrl": "https:\/\/cdn-atxn-01.vos360.video\/Content\/HLS\/Live\/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)\/index.m3u8",
     "description": "",
     "country": ""
   },
@@ -587,9 +587,472 @@
     "title": "Avang TV",
     "titlefa": "",
     "imageUrl": "",
-    "videoUrl": "https://hls.avang.live/hls/stream.m3u8",
+    "videoUrl": "https:\/\/hls.avang.live\/hls\/stream.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Adria",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://5.57.74.130:8000/play/a0at/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Black",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://85.14.32.26:8800/udp/239.100.10.17:5000",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Black Czech Republic",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://88.212.15.19/live/test_black/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Black Poland",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://185.227.34.179:8080/axn-black/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Black Romania",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://15.204.246.24:8080/AXNHD/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://138.121.15.230:9002/AXN/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://181.119.66.28:8081/AXN/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://190.93.224.42/AXN/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://45.167.1.138:8000/play/a04s",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America Mexico",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN Latin America South",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN White",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN White Bulgaria",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN White CzechRepublic",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://88.212.15.19/live/test_white/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN White Poland",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://185.227.34.179:8080/axn-white/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXN White Portugal",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AXS TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.239.31.26:8989/axstv/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BabyFirst",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bark TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BBC America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Florida & Alabama",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Florida & Alabama",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Key West & Florida Keys",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Myrtle Beach & The Grand Strand",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Myrtle Beach & The Grand Strand",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Panama City",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Beach TV Panama City",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "beIN SPORTS XTRA",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "beIN SPORTS XTRA en Espanol",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://201.190.41.246:9060/play/a03y/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Berks Community TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Best of Dr Phil",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Better Health TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Better Life Nature Channel",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Better Life TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BIG Civic Channel",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BIG Community Channel",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Big Ten Network",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Binge",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Biz TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Biz TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg Originals",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg Originals",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg Originals",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg Originals",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV +",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV US",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV US Live Event",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV US Politics Live Event",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomberg TV+",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomfield Access Government TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bloomfield Access TV Channel 5",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Blues TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BMC-HD TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd62d?playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bounce",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Bounce XL",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "BPX TV Radio",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
     "description": "",
     "country": ""
   }
 ]
-
