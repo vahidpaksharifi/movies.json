@@ -1,8 +1,14 @@
 [
   {
-    "name": "شبکه انلاین",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1787717303779.jpg",
-    "type": "category",
-    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_subgenres\/subgenre_1787717303779.json"
+    "name": "صدا سیما",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1787717325996.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1787717325996.json"
+  },
+  {
+    "name": "ماهواره",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/genres\/genre_1787717343143.jpg",
+    "type": "movies",
+    "url": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/admin_genres\/genre_1787717343143.json"
   }
 ]
