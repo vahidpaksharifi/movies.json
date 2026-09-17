@@ -24,11 +24,572 @@
     "country": ""
   },
   {
-    "title": "avang tv",
+    "title": "6 Wise Tv",
     "titlefa": "",
-    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1789654313997.jpg",
-    "videoUrl": "https:\/\/hls.avang.live\/hls\/stream.m3u8",
+    "imageUrl": "https://jrlist70.pages.dev/list/wise.png",
+    "videoUrl": "https://live.enhdtv.com:8081/8150/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "48 Hours",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "A&E",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.239.31.26:8989/aande/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "A&E Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://138.121.15.230:9002/A&E/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "A&E Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://190.93.224.42/AYE/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "A&E Latin America Brazil",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://170.83.16.50/AeE/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABC",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABC West",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://stream.cammonitorplus.net/1797/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Afghanistan",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Africa",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Bible Movies",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN China",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Freedom of Speech",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN I AM",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/i_am_.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Son of God",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN TV India",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ABN Urdu",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Access 4 PAC",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Access 19",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Access Nashua",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AccessVision Channel 16",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AccessVision Channel 17",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AccuWeather NOW",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.239.31.26:8989/accuweather/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Ace TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ACTV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Adult Swim Latin America Brazil",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AfroLandTV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://alt-al.otteravision.com/alt/al/al.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AFTV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Akaku 53 (Hawaii)",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Akaku 54 (Hawaii)",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Akaku 55 (Hawaii)",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AKC TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AKC TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AKC TV Meet The Breeds",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AKC TV Puppies 24/7",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Al Horreya TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Al Horreya TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Al-Fady TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Al-MahdiTV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alabama Weather Network",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alhurra",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alhurra",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alhurra Iraq",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Aliento Vision",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Australia",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Australia",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Family",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Middle East",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV North America & Canada",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Praise",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Talmaza (Discipleship)",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Alkarma TV Youth & English",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Almagd TV Middle East",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Almagd TV North America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Amazing Facts TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://23.239.31.26:8989/amc/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC East",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://15.204.246.24:8080/AMCHD/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://45.162.193.35/AMC/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC Latin America",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://45.171.108.253:8888/AMC/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMC Latin America Brazil",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "American Horrors",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "AMG TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Amga TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Amu TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ATL 26",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Atlas",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ATXN1",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ATXN2",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "ATXN3",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
+    "description": "",
+    "country": ""
+  },
+  {
+    "title": "Avang TV",
+    "titlefa": "",
+    "imageUrl": "",
+    "videoUrl": "https://hls.avang.live/hls/stream.m3u8",
     "description": "",
     "country": ""
   }
 ]
+
