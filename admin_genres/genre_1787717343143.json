@@ -5,11 +5,7 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787608741368.jpg",
     "videoUrl": "https:\/\/d234zyvf3b6a4t.cloudfront.net\/out\/v1\/abe3211a88b84dafa7a48b8fb2678895\/index.m3u8",
     "description": "",
-    "country": "",
-    "trailerUrl": "",
-    "url480": "",
-    "url720": "",
-    "url1080": ""
+    "country": ""
   },
   {
     "title": "bbc",
@@ -17,11 +13,7 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787609552408.jpg",
     "videoUrl": "https:\/\/vs-hls-pushb-ww-live.akamaized.net\/x=4\/i=urn:bbc:pips:service:bbc_persian_tv\/t=3840\/v=pv14\/b=5070016\/main.m3u8",
     "description": "",
-    "country": "",
-    "trailerUrl": "",
-    "url480": "",
-    "url720": "",
-    "url1080": ""
+    "country": ""
   },
   {
     "title": "247 box",
@@ -29,10 +21,14 @@
     "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1787606474663.jpg",
     "videoUrl": "https:\/\/hls.247box.live:443\/hls\/stream.m3u8",
     "description": "",
-    "country": "",
-    "trailerUrl": "",
-    "url480": "",
-    "url720": "",
-    "url1080": ""
+    "country": ""
+  },
+  {
+    "title": "avang tv",
+    "titlefa": "",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/vahidpaksharifi\/movies.json\/main\/images\/posters\/film_1789654313997.jpg",
+    "videoUrl": "https:\/\/hls.avang.live\/hls\/stream.m3u8",
+    "description": "",
+    "country": ""
   }
 ]
